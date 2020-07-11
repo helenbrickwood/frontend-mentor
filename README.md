@@ -1,2 +1,2 @@
 # frontend-mentor
-A place to work on Frontendmentor.io challenges
+A place to work on Frontendmentor.io challenges.
